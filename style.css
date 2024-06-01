@@ -1,0 +1,16 @@
+body{
+    background: rgb(57,255,0);
+background: linear-gradient(
+    90deg, 
+    rgba(57,255,0,1) 0%, 
+    rgba(245,255,0,1) 43%, 
+    rgba(17,190,207,1) 56%, 
+    rgba(0,212,255,1) 100%
+);
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
